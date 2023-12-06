@@ -1,0 +1,74 @@
+[
+    {
+        "fname": "Eric",
+        "lname": "Lehnsherr",
+        "alias": "Magneto",
+        "city": "San Francisco",
+        "powerRating": 10,
+        "powerType": "Magnetism"
+    },
+    {
+        "fname": "Charles",
+        "lname": "Xavier",
+        "alias": "Professor X",
+        "city": "New York",
+        "powerRating": 10,
+        "powerType": "Telepathy"
+    },
+    {
+        "fname": "Scott",
+        "lname": "Summers",
+        "alias": "Cyclops",
+        "city": "San Francisco",
+        "powerRating": 8,
+        "powerType": "Optic Blast"
+    },
+    {
+        "fname": "Jean",
+        "lname": "Grey",
+        "alias": "Phoenix",
+        "city": "New York",
+        "powerRating": 10,
+        "powerType": "Telepathy"
+    },
+    {
+        "fname": "Ororo",
+        "lname": "Munroe",
+        "alias": "Storm",
+        "city": "Wakanda",
+        "powerRating": 9,
+        "powerType": "Weather Control"
+    },
+    {
+        "fname": "Logan",
+        "lname": "Howlett",
+        "alias": "Wolverine",
+        "city": "Montreal",
+        "powerRating": 9,
+        "powerType": "Regeneration"
+    },
+    {
+        "fname": "Henry",
+        "lname": "McCoy",
+        "alias": "Beast",
+        "city": "New York",
+        "powerRating": 7,
+        "powerType": "Super Strength"
+    },
+    {
+        "fname": "Kurt",
+        "lname": "Wagner",
+        "alias": "Nightcrawler",
+        "city": "Munich",
+        "powerRating": 7,
+        "powerType": "Teleportation"
+    },
+    {
+        "fname": "Raven",
+        "lname": "Darkholme",
+        "alias": "Mystique",
+        "city": "Unknown",
+        "powerRating": 8,
+        "powerType": "Shapeshifting"
+    }
+]
